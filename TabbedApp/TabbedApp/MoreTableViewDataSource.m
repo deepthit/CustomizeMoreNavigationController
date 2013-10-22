@@ -49,7 +49,6 @@
   selectionColor.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
   cell.selectedBackgroundView = selectionColor;
   
-  //cell.backgroundColor = [UIColor redColor];
   return cell;
 }
 
